@@ -1,7 +1,7 @@
 # Hamburger Menu Implementation #
 
 _This codebase includes html, css and a few lines of javascript that implements a hamburger menu, completely build from scratch with no additional frameworks_
-
+<a href="https://deepyes02.github.io/hamburger-menu/" target="_blank"><h2> Live Demo</h2> </a>
 ## Build Stack ##
 1. HTML 5
 2. CSS3
